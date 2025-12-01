@@ -1,0 +1,72 @@
+[
+  {
+    "sellerExternalId": "fac1d1ef-c076-4ad2-b898-a40c0729a77d",
+    "seller": "Fabricia",
+    "site": "https://estudealianca.com.br/",
+    "pixel": "787837790201853",
+    "numero": "5511976124066"
+  },
+  {
+    "sellerExternalId": "25b05701-30d3-4149-aaa5-172d35ee4944",
+    "seller": "Odila",
+    "site": "https://aliancaon.com.br/",
+    "pixel": "832368690988246",
+    "numero": "5511988020399"
+  },
+  {
+    "sellerExternalId": "412edb2c-f98c-4345-b55e-8531dc56f805",
+    "seller": "Paula",
+    "site": "https://aliancaamerica.com.br/",
+    "pixel": "208171997732329",
+    "numero": "5513981193085"
+  },
+  {
+    "sellerExternalId": "d5b60eba-b63a-43a0-bc4e-5adfa8478d2a",
+    "seller": "Juliano",
+    "site": "https://aliancaonline.com.br/",
+    "pixel": "766304581674669",
+    "numero": "5511966573512"
+  },
+  {
+    "sellerExternalId": "b4d119ae-2ca1-43a8-aa8d-c93655ae24d5",
+    "seller": "Oriana",
+    "site": "https://inglesalianca.com.br/",
+    "pixel": "1589059831637359",
+    "numero": "5511988279382"
+  },
+  {
+    "sellerExternalId": "89f3cd87-6cfe-4e13-9f7d-35b538c72279",
+    "seller": "Livia",
+    "site": "https://startalianca.com.br/",
+    "pixel": "24362461266771826",
+    "numero": "5511994956530"
+  },
+  {
+    "sellerExternalId": "a1562dcf-0422-450f-9e99-0ee1977c335e",
+    "seller": "Marina",
+    "site": "https://aliancaestude.com.br/",
+    "pixel": "631068209861961",
+    "numero": "5511917060678"
+  },
+  {
+    "sellerExternalId": "25b05701-30d3-4149-aaa5-172d35ee4944",
+    "seller": "Odila",
+    "site": "https://aliancaescola.com/",
+    "pixel": "1370527071078015",
+    "numero": "5511988020399"
+  },
+  {
+    "sellerExternalId": "795adb5a-d787-421f-ab54-b9afefa6415b",
+    "seller": "Renan",
+    "site": "https://aliancaescolas.com.br/",
+    "pixel": "1405230444454020",
+    "numero": "5511978268832"
+  },
+  {
+    "sellerExternalId": "b4d119ae-2ca1-43a8-aa8d-c93655ae24d5",
+    "seller": "Oriana",
+    "site": "https://aliancaclasses.com.br/",
+    "pixel": "1748319529139748",
+    "numero": "5511988279382"
+  }
+]
